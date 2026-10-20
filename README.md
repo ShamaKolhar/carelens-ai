@@ -8,8 +8,7 @@ monitoring and a document-grounded policy assistant — built on the UCI
 
 ## Status
 
-Work in progress — Session 1 of 10 (repo setup + raw data). See `CLAUDE.md` for the
-full project brief, architecture and session plan.
+Work in progress - Session 1 of 10 (repo setup + raw data).
 
 ## Setup
 
