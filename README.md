@@ -8,7 +8,7 @@ monitoring and a document-grounded policy assistant — built on the UCI
 
 ## Status
 
-Work in progress - Session 1 of 10 (repo setup + raw data).
+Work in progress - repo setup + EDA
 
 ## Setup
 
